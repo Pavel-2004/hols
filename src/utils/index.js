@@ -1,5 +1,4 @@
 const { h } = require('preact')
-const db = require('sqlite')
 const htm = require('htm')
 const validator = require('validator')
 const createError = require('http-errors')

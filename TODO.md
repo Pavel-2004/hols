@@ -8,6 +8,7 @@
   - page for CSV downloads
 - add a print button?
 - sqlite new version?
+- list of holidays
 
 # DONE
 
