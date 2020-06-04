@@ -23,6 +23,7 @@
   - add to the API
   - add federal sources
   - add page with sources
+- sqlite new version
 - New key "observedDate"
   - update Swagger
 - "date" is the literal date
